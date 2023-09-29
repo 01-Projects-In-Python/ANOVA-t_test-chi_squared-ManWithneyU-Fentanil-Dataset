@@ -1,1 +1,1 @@
-# ANOVA-t_test-chi_squared-ManWithneyU-Fentanil-Dataset
+The purpose of this project is to examine various aspects of randomized, controlled and single - blinded trial in relation to “pain relief effect of the intravenous patient-controlled analgesia (PCA), using combined nefopam-fentanyl for postoperative analgesia in patients undergoing spine fixation surgery”. Note that this study was conducted by a group of doctors in Vietnam.
